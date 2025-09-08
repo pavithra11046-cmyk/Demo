@@ -1,4 +1,4 @@
 colour
 green
-bliue
+blue
 yellow
